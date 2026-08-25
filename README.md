@@ -1,6 +1,6 @@
 <div align="center">
 
-# Desenvolvedor com foco em Back-end ⚙️
+# Desenvolvedor com em Analise de Dados 
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-santos-lima-32274031b)
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kauansantoslima826@gmail.com)
@@ -13,8 +13,8 @@
 
 - 🔭 Meu foco de desenvolvimento e carreira é o **Back-end**.
 - 🌱 Estudando por conta própria: **Java e Spring Boot**.
-- 🎓 Aprendendo na faculdade: **[NOME DO SEU CURSO E FACULDADE AQUI]**.
-- 💼 Experiência / Projetos: **[SUA EXPERIÊNCIA OU PROJETO PRINCIPAL AQUI]**.
+- 🎓 Aprendendo na faculdade: **[ADS\Impacta e Ciência de Dados\UFMS]**.
+- 💼 Experiência / Projetos: **[SLFood - Projeto Impacta]**.
 - 🛠️ Experiência com UX/UI, ferramentas No-Code e gestão ágil.
 - 🌟 Buscando sempre evoluir e resolver problemas reais através do código!
 
