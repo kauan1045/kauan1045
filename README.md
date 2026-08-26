@@ -1,24 +1,40 @@
-<div align="center">
 
-# Desenvolvedor com em Analise de Dados 
+┌──────────────────────────────────────────────┐
+│              TERMINAL / HEADER              │
+│                                              │
+│  > whoami                                    │
+│  KAUAN SANTOS LIMA                           │
+│                                              │
+│  > role                                      │
+│  Data Science Student                        │
+│                                              │
+│  > skills                                    │
+│  Python • SQL • Power BI • Pandas            │
+└──────────────────────────────────────────────┘
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-santos-lima-32274031b)
-[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kauansantoslima826@gmail.com)
+        493 Contributions
+              🔥
+        Current Streak
 
-</div>
+┌──────────────────┐  ┌──────────────────────┐
+│ GitHub Stats     │  │ Most Used Languages  │
+│                  │  │                      │
+│ ⭐ Stars         │  │ Python ███████       │
+│ 📦 Repositories  │  │ SQL    █████         │
+│ 🔀 PRs           │  │ Java   ███           │
+└──────────────────┘  └──────────────────────┘
 
----
+              🐍
+      CONTRIBUTION SNAKE
+   ▓ ▓ ▓ ▓ ▓ ▓ ▓ ▓ ▓ ▓
 
-## 👨‍💻 Sobre mim
+              PROJECTS
 
-- 🔭 Meu foco de desenvolvimento e carreira é o **Back-end**.
-- 🌱 Estudando por conta própria: **Java e Spring Boot**.
-- 🎓 Aprendendo na faculdade: **[ADS\Impacta e Ciência de Dados\UFMS]**.
-- 💼 Experiência / Projetos: **[SLFood - Projeto Impacta]**.
-- 🛠️ Experiência com UX/UI, ferramentas No-Code e gestão ágil.
-- 🌟 Buscando sempre evoluir e resolver problemas reais através do código!
-
----
+┌────────────────────┐ ┌────────────────────┐
+│ 📊 Projeto         │ │ 🧠 Projeto         │
+│ Data Science       │ │ Machine Learning   │
+│ Python • SQL       │ │ Python • Pandas    │
+└────────────────────┘ └────────────────────┘
 
 ## 🚀 Minhas ferramentas e conhecimentos
 
