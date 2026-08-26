@@ -1,60 +1,34 @@
-<div align="center">
+<h1 align="center">Olá, eu sou o Kauan 👋</h1>
 
-  <!-- Animação do Título (Typing Effect) -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0077B5&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Kauan+Santos!+👋;Desenvolvedor+Back-end+Java;Buscando+sempre+evoluir+atrav%C3%A9s+do+c%C3%B3digo!" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor;Sempre+aprendendo+algo+novo;Bem-vindo+ao+meu+perfil!&font=Fira%20Code&center=true&width=440&height=45&color=0891B2&vCenter=true&size=22" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=kauan1045&hide_border=true&background=FFFFFF&stroke=0891B2&ring=7C3AEA&fire=059669&currStreakLabel=0891B2&sideLabels=475569&dates=94A3B8&titleColor=0891B2" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=kauan1045&show_icons=true&count_private=true&hide_rank=true&title_color=0891B2&icon_color=7C3AEA&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=kauan1045&layout=compact&hide_border=true&title_color=0891B2&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kauan1045/kauan1045/output/snake-light.svg" alt="Snake eating my contributions" />
+</p>
+
+<h3 align="center">🔗 Onde me encontrar</h3>
+
+<p align="center">
+  <a href="">
+    <img src="https://img.shields.io/badge/LinkedIn-0A101F?style=for-the-badge&logoColor=white&labelColor=0A101F&logo=linkedin" alt="LinkedIn" />
   </a>
-
-  <br />
-
-  <!-- Redes Sociais e Contato -->
-  <a href="https://www.linkedin.com/in/kauan-santos-lima-32274031b">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.instagram.com/SEU-USUARIO-AQUI/">
+    <img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=0A101F" alt="Instagram" />
   </a>
-  <a href="mailto:kauansantoslima826@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:seu-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
   </a>
+</p>
 
-</div>
-
----
-
-### 👨‍💻 Sobre mim
-
-- 🔭 Meu foco principal de estudo e carreira é em **Back-end**.
-- 🌱 Atualmente aprimorando conhecimentos em **Java, Spring Boot e Bancos de Dados (SQL)**.
-- 🎓 Estudando **Análise e Desenvolvimento de Sistemas**.
-- 🛠️ Experiência em desenvolvimento de aplicações via terminal, APIs REST e modelagem orientada a objetos.
-- 💬 Vamos conversar sobre tecnologia e oportunidades na área de TI!
-
----
-
-### 🛠️ Tecnologias e Ferramentas
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="45" height="45" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="45" height="45" alt="Spring" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="45" height="45" alt="IntelliJ" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VSCode" />
-</div>
-
----
-
-### 📊 Estatísticas e Atividades
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=kauan1045&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas de Kauan" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauan1045&layout=compact&theme=dark" alt="Linguagens mais usadas" />
-</div>
-
-<br />
-
-<div align="center">
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=kauan1045&theme=dark" alt="Streak do GitHub" />
-</div>
 
