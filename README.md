@@ -32,3 +32,12 @@
 </p>
 
 
+### 🚀 Minhas ferramentas e conhecimentos
+
+<p align="left">
+  <!-- Lista de ícones exatamente no estilo do perfil que você gostou -->
+  <a href="https://github.com/SeuUsuarioAqui">
+    <img src="https://skillicons.dev/icons?i=java,spring,python,postgres,figma,github,git,idea,mysql,vscode&theme=dark" alt="Habilidades"/>
+  </a>
+</p>
+
