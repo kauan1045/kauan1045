@@ -20,13 +20,9 @@
 <h3 align="center">🔗 Onde me encontrar</h3>
 
 <p align="center">
-  <a href="">
+  <a href="https://www.linkedin.com/in/kauan-santos-lima-32274031b?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
     <img src="https://img.shields.io/badge/LinkedIn-0A101F?style=for-the-badge&logoColor=white&labelColor=0A101F&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/SEU-USUARIO-AQUI/">
-    <img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=0A101F" alt="Instagram" />
-  </a>
-  <a href="mailto:seu-email@gmail.com">
+  <a href="kauansantoslima826@gmail.com">
     <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
   </a>
 </p>
